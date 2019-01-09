@@ -9,7 +9,7 @@ import java.util.*;
     public static int conversion(int binary){
         int decimal=0,temp=1;
         while(binary>0){
-            decimal+=temp*binary%10;
+            decimal+=temp*(binary%10);
             binary/=10;
             temp*=2;
         }
