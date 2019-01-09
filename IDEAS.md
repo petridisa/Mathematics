@@ -27,4 +27,6 @@ After completing the program, please be sure to remove the appropriate item from
  - Integration
  - Differentiation
  - Gamma Function Calculation
+ - Binary to Decimal Conversion
+ - Decimal to Binary Conversion
  
